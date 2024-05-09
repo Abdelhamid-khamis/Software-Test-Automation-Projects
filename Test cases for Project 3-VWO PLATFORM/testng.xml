@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" parallel="methods" name="ATB4xSeleniumAdvanceFramework">
         <classes>
-            <class name="com.thetestingacademy.vwo.LoginTests.LoginTest">
+            <class name="com.abdelhamid.vwo.LoginTests.LoginTest">
             </class>
         </classes>
     </test>
